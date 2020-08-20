@@ -13,7 +13,7 @@
     <issue>https://github.com/ardabeyazoglu/cordova-plugin-crosswalk-webview-v3/issues</issue>
 
     <engines>
-        <engine name="cordova-android" version=">=7"/>
+        <engine name="cordova-android" version="<=7"/>
         <engine name="cordova-plugman" version=">=5.2.0"/><!-- needed for gradleReference support -->
     </engines>
 
